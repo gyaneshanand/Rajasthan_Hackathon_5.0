@@ -1,5 +1,3 @@
-# Rajasthan_hackathon_5.0
-
 # Healthcare Insights for Government
 
 # Problem Statement
