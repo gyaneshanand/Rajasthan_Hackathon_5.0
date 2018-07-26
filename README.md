@@ -1,9 +1,9 @@
 # Healthcare Insights for Government
 
-# Problem Statement
+## Problem Statement
 There’s lack of a Unique Unified Patient Health Record System. Every hospital has its own database, but no uniformity and this creates difficulties for all (the doctors, the patient and the government). The govt. too, as it becomes difficult for them to make sense out of the enormous amount of non-uniform data coming from different hospitals to analyse and come out with a scheme. Big Data available from different hospitals can play a major role in policy making.
 
-# Solution 
+## Solution 
 We plan to build a common platform accessible to citizens, hospitals and the government. Under this, there would be a digital Health Card for each and every citizen of Rajasthan.Health Card will be unique to each individual as it would be based on Aadhar Identity and the Bhamashah UID. Government can use it to design better health schemes in effective manner. As the Govt, would get the real time data of health condition. 
 
 1. BENEFITS FOR GOVERNMENT
@@ -28,7 +28,7 @@ We plan to build a common platform accessible to citizens, hospitals and the gov
 3.1 Doctors would have all previous data of the concerned patient & it can help the doctor to better predict the disease. 
 3.2 Hospital can better manage the stock.
 
-Uniqueness in Solution
+## Uniqueness in Solution
 Since there isn’t a unified system and the e-mitra programme doesn’t include healthcare as of now, our solution becomes unique as we provide every citizen with a virtual health card linked to his Aadhar no. & BhamaShah ID so that the citizen, the hospitals, and the government have a person’s health records. 
 What would we build during the Hackathon
 A web app that allows the (i) citizen to view his organised medical history, prescription, test results, ongoing treatments and medications (ii) the doctors to edit their treatment history and add prescriptions, medications, referrals, tests and results and view their patient's’ history. (iii) The government to view the analysis and schematics (past, present and predictions) of a region, to help them identify problem areas and launch successful schemes and programmes.
