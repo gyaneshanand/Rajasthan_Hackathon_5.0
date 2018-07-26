@@ -33,6 +33,9 @@ Since there isn’t a unified system and the e-mitra programme doesn’t include
 What would we build during the Hackathon
 A web app that allows the (i) citizen to view his organised medical history, prescription, test results, ongoing treatments and medications (ii) the doctors to edit their treatment history and add prescriptions, medications, referrals, tests and results and view their patient's’ history. (iii) The government to view the analysis and schematics (past, present and predictions) of a region, to help them identify problem areas and launch successful schemes and programmes.
 
+## Running The Code
+Start From mainPage.html
+
 NAME : Gyanesh Anand
 OCCUPATION : Student
 NAME OF COLLEGE : IIIT Delhi
